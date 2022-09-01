@@ -1,0 +1,19 @@
+.cover {
+  max-width: 1184px;
+  text-decoration: none;
+  margin: 0 auto 92px;
+  background: url(../../images/cover__bckg.jpg) center  no-repeat;
+  background-size: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .cover {
+    margin-bottom: 64px;
+  }
+}

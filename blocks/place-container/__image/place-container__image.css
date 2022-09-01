@@ -1,0 +1,11 @@
+.place-container__image {
+  max-width: 100%;
+  grid-row: 2;
+}
+
+@media screen and (max-width: 767px) {
+  .place-container__image {
+    grid-row: 3;
+    width: 100%;
+  }
+}

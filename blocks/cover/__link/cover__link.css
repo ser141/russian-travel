@@ -1,0 +1,14 @@
+.cover__link {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  aspect-ratio: 15.9/10;
+  background-color: rgba(42, 44, 47, .3);
+  transition: linear .4s;
+}
+
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, .8);
+}

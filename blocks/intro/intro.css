@@ -4,9 +4,15 @@
   padding-top: 92px;
 }
 
+@media screen and (max-width: 1280px) {
+  .intro {
+    max-width: 77%;
+  }
+}
+
 @media screen and (max-width: 1024px) {
   .intro {
-    max-width: 96%;
+    max-width: 90.6%;
   }
 }
 
