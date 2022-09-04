@@ -32,3 +32,10 @@
     margin: 0 24px 0;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .place-container__text {
+    grid-column: 1;
+    margin: 0 16px 25px;
+  }
+}

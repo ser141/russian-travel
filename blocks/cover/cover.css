@@ -3,7 +3,7 @@
   text-decoration: none;
   margin: 0 auto 92px;
   background: url(../../images/cover__bckg.jpg) center  no-repeat;
-  background-size: 100%;
+  background-size: cover;
 }
 
 @media screen and (max-width: 768px) {

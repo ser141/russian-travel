@@ -15,6 +15,6 @@
 @media screen and (max-width: 320px) {
   .header__lang-link {
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 20px;
   }
 }
