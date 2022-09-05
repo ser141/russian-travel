@@ -9,7 +9,7 @@
   color: white;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 525px) {
   .cover__subtitle {
     padding-top: 16px;
     font-size: 14px;
