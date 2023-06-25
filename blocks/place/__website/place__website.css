@@ -7,3 +7,16 @@
     justify-self: start;
     align-self: flex-end;
 }
+
+@media screen and (max-width: 640px) {
+    .place__website {
+       grid-row: 2;
+       grid-column: 1;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .place__website {
+        margin-left: 16px;
+    }
+}
